@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F65B3D620ECC676005DC133 /* Test2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B3D520ECC676005DC133 /* Test2ViewController.swift */; };
 		CF36AFB020ECC00B00D71FCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */; };
 		CF36AFB220ECC00B00D71FCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFB120ECC00B00D71FCE /* ViewController.swift */; };
 		CF36AFB520ECC00B00D71FCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF36AFB320ECC00B00D71FCE /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2F65B3D520ECC676005DC133 /* Test2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test2ViewController.swift; sourceTree = "<group>"; };
 		CF36AFAC20ECC00A00D71FCE /* challengeGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challengeGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF36AFB120ECC00B00D71FCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				CF36AFB120ECC00B00D71FCE /* ViewController.swift */,
 				CF36AFB320ECC00B00D71FCE /* Main.storyboard */,
 				CF36AFE020ECC60100D71FCE /* TestViewController.swift */,
+				2F65B3D520ECC676005DC133 /* Test2ViewController.swift */,
 				CF36AFB920ECC00B00D71FCE /* Assets.xcassets */,
 				CF36AFBB20ECC00B00D71FCE /* LaunchScreen.storyboard */,
 				CF36AFBE20ECC00B00D71FCE /* Info.plist */,
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F65B3D620ECC676005DC133 /* Test2ViewController.swift in Sources */,
 				CF36AFB220ECC00B00D71FCE /* ViewController.swift in Sources */,
 				CF36AFB820ECC00B00D71FCE /* challengeGit.xcdatamodeld in Sources */,
 				CF36AFE120ECC60100D71FCE /* TestViewController.swift in Sources */,
