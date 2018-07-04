@@ -1,5 +1,5 @@
 //
-//  Test2ViewController.swift
+//  Tes3ViewController.swift
 //  challengeGit
 //
 //  Created by Resky Javieri on 04/07/18.
@@ -8,12 +8,10 @@
 
 import UIKit
 
-class Test2ViewController: UIViewController {
+class Tes3ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
-        
 
         // Do any additional setup after loading the view.
     }
