@@ -33,10 +33,10 @@
             </objects>
             <point key="canvasLocation" x="975.20000000000005" y="36.945812807881772"/>
         </scene>
-        <!--Detail View Controller-->
+        <!--Test View Controller-->
         <scene sceneID="pdg-eR-gH6">
             <objects>
-                <viewController id="0fi-G3-Ztj" customClass="DetailViewController" customModule="challengeGit" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="0fi-G3-Ztj" customClass="TestViewController" customModule="challengeGit" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="qBb-BB-NUR">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
