@@ -11,6 +11,8 @@
 		2F65B3D820ECC766005DC133 /* Tes3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B3D720ECC766005DC133 /* Tes3ViewController.swift */; };
 		2F65B3DB20ECC88E005DC133 /* asdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B3D920ECC88E005DC133 /* asdViewController.swift */; };
 		2F65B3DC20ECC88E005DC133 /* asdViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F65B3DA20ECC88E005DC133 /* asdViewController.xib */; };
+		2F65B3DF20ECC91A005DC133 /* LaGIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B3DD20ECC91A005DC133 /* LaGIViewController.swift */; };
+		2F65B3E020ECC91A005DC133 /* LaGIViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2F65B3DE20ECC91A005DC133 /* LaGIViewController.xib */; };
 		CF36AFB020ECC00B00D71FCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */; };
 		CF36AFB220ECC00B00D71FCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFB120ECC00B00D71FCE /* ViewController.swift */; };
 		CF36AFB520ECC00B00D71FCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF36AFB320ECC00B00D71FCE /* Main.storyboard */; };
@@ -44,6 +46,8 @@
 		2F65B3D720ECC766005DC133 /* Tes3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tes3ViewController.swift; sourceTree = "<group>"; };
 		2F65B3D920ECC88E005DC133 /* asdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = asdViewController.swift; sourceTree = "<group>"; };
 		2F65B3DA20ECC88E005DC133 /* asdViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = asdViewController.xib; sourceTree = "<group>"; };
+		2F65B3DD20ECC91A005DC133 /* LaGIViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaGIViewController.swift; sourceTree = "<group>"; };
+		2F65B3DE20ECC91A005DC133 /* LaGIViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LaGIViewController.xib; sourceTree = "<group>"; };
 		CF36AFAC20ECC00A00D71FCE /* challengeGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challengeGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF36AFB120ECC00B00D71FCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -121,6 +125,8 @@
 				CF36AFB620ECC00B00D71FCE /* challengeGit.xcdatamodeld */,
 				2F65B3D920ECC88E005DC133 /* asdViewController.swift */,
 				2F65B3DA20ECC88E005DC133 /* asdViewController.xib */,
+				2F65B3DD20ECC91A005DC133 /* LaGIViewController.swift */,
+				2F65B3DE20ECC91A005DC133 /* LaGIViewController.xib */,
 			);
 			path = challengeGit;
 			sourceTree = "<group>";
@@ -251,6 +257,7 @@
 				2F65B3DC20ECC88E005DC133 /* asdViewController.xib in Resources */,
 				CF36AFBA20ECC00B00D71FCE /* Assets.xcassets in Resources */,
 				CF36AFB520ECC00B00D71FCE /* Main.storyboard in Resources */,
+				2F65B3E020ECC91A005DC133 /* LaGIViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +289,7 @@
 				CF36AFE120ECC60100D71FCE /* TestViewController.swift in Sources */,
 				CF36AFB020ECC00B00D71FCE /* AppDelegate.swift in Sources */,
 				2F65B3DB20ECC88E005DC133 /* asdViewController.swift in Sources */,
+				2F65B3DF20ECC91A005DC133 /* LaGIViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
