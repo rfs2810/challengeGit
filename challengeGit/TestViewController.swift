@@ -12,7 +12,7 @@ class TestViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
+//MEMEK
         // Do any additional setup after loading the view.
     }
 
