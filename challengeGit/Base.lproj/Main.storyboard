@@ -46,7 +46,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="rQc-t9-LmI" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1910" y="37"/>
+            <point key="canvasLocation" x="1822" y="37"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="NfG-An-9p0">
