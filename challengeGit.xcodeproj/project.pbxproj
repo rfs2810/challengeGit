@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2F65B3D420ECC121005DC133 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F65B3D320ECC121005DC133 /* DetailViewController.swift */; };
 		CF36AFB020ECC00B00D71FCE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */; };
 		CF36AFB220ECC00B00D71FCE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFB120ECC00B00D71FCE /* ViewController.swift */; };
 		CF36AFB520ECC00B00D71FCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF36AFB320ECC00B00D71FCE /* Main.storyboard */; };
@@ -16,6 +15,7 @@
 		CF36AFBD20ECC00B00D71FCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CF36AFBB20ECC00B00D71FCE /* LaunchScreen.storyboard */; };
 		CF36AFC820ECC00B00D71FCE /* challengeGitTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFC720ECC00B00D71FCE /* challengeGitTests.swift */; };
 		CF36AFD320ECC00B00D71FCE /* challengeGitUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFD220ECC00B00D71FCE /* challengeGitUITests.swift */; };
+		CF36AFE120ECC60100D71FCE /* TestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF36AFE020ECC60100D71FCE /* TestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2F65B3D320ECC121005DC133 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 		CF36AFAC20ECC00A00D71FCE /* challengeGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challengeGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CF36AFB120ECC00B00D71FCE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -51,6 +50,7 @@
 		CF36AFCE20ECC00B00D71FCE /* challengeGitUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = challengeGitUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF36AFD220ECC00B00D71FCE /* challengeGitUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = challengeGitUITests.swift; sourceTree = "<group>"; };
 		CF36AFD420ECC00B00D71FCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF36AFE020ECC60100D71FCE /* TestViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,8 +103,8 @@
 			children = (
 				CF36AFAF20ECC00B00D71FCE /* AppDelegate.swift */,
 				CF36AFB120ECC00B00D71FCE /* ViewController.swift */,
-				2F65B3D320ECC121005DC133 /* DetailViewController.swift */,
 				CF36AFB320ECC00B00D71FCE /* Main.storyboard */,
+				CF36AFE020ECC60100D71FCE /* TestViewController.swift */,
 				CF36AFB920ECC00B00D71FCE /* Assets.xcassets */,
 				CF36AFBB20ECC00B00D71FCE /* LaunchScreen.storyboard */,
 				CF36AFBE20ECC00B00D71FCE /* Info.plist */,
@@ -264,8 +264,8 @@
 			files = (
 				CF36AFB220ECC00B00D71FCE /* ViewController.swift in Sources */,
 				CF36AFB820ECC00B00D71FCE /* challengeGit.xcdatamodeld in Sources */,
+				CF36AFE120ECC60100D71FCE /* TestViewController.swift in Sources */,
 				CF36AFB020ECC00B00D71FCE /* AppDelegate.swift in Sources */,
-				2F65B3D420ECC121005DC133 /* DetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
